@@ -1,1 +1,1 @@
-# cpbsb3
+# Repositório de Teste para Campus Party Brasília 3a edição
